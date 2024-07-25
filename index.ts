@@ -92,12 +92,12 @@ const questions: Question[] = [
         correctAnswer: 'true'
     },
     {
-        question: 'Q.16\nWhat is Type Alias in TypeScript?\n\n',
+        question: 'Q.17\nWhat is Type Alias in TypeScript?\n\n',
         choices: ['Allow defining types with custom name', 'Creating a boolean type', 'Access the classes', 'Access the functions'],
         correctAnswer: 'Allow defining types with custom name'
     },
     {
-        question: 'Q.16\nWhat is the output of the following code in TypeScript?\n\n let car = {model: string, year:number} = { \n  model= "Corolla",\n  year= 2019\n}\n console.log(car);\n\n',
+        question: 'Q.18\nWhat is the output of the following code in TypeScript?\n\n let car = {model: string, year:number} = { \n  model= "Corolla",\n  year= 2019\n}\n console.log(car);\n\n',
         choices: ['Corolla , 2019', '{Corolla , 2019}', '{model: Corolla, year: 2019}', '{Corolla , 2019}'],
         correctAnswer: '{model: Corolla, year: 2019}'
     },
